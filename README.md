@@ -3,7 +3,6 @@
 [![discord](https://discord.com/api/guilds/756559332170006629/widget.png)](https://discord.gg/R7wDzsy)
 
 
-
 ## 🌍 Programming languages:
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -15,11 +14,8 @@
 
 ## ⚙️ Programming Tools:
 <p>
-  <img alt="github" width="50px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg"/>
-    <img alt="git" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png"/ >
-  <img alt="webstorm" width="60px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/webstorm-icon-logo.png"/>
-    <img alt="bootstrap" width="50px" src="https://img.icons8.com/color/452/bootstrap.png"/>
-    <img alt="clion" width="50px" src="https://cdn.worldvectorlogo.com/logos/clion-1.svg"/>
+  <img alt="VSCODE" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"/>
+  <img alt="SUBLIMETEXT" width="50px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"/>
 </p>
   
 
