@@ -1,7 +1,7 @@
 ### Hi, I'm Alex
 
 [![discord](https://discord.com/api/guilds/756559332170006629/widget.png)](https://discord.gg/R7wDzsy)
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G63913N)
 
 ## 🌍 Programming languages:
 <p>
