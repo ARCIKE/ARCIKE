@@ -1,7 +1,6 @@
 ### Hi, I'm Alex
 
-[![discord](https://discord.com/api/guilds/756559332170006629/widget.png)](https://discord.gg/R7wDzsy)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G63913N)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARCIKE)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌍 Programming languages:
 <p>
@@ -20,7 +19,8 @@
   
 
 ## 🚩 Projects:
-- None
+- VTC-Sti.cf
+- Sti2D.cf
 
 <p align="left"> 
   Visitor count<br>
