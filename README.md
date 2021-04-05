@@ -1,7 +1,7 @@
 ### Hi, I'm Alex
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARCIKE&show_icons=true&theme=dark)](https://arcike.tk)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=ARCIKE)](https://arcike.tk)
+
 ## 🌍 Programming languages:
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
